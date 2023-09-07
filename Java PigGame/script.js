@@ -95,7 +95,7 @@ document.querySelector('.btn--hold').addEventListener('click', function(){
 
     
 
-        if(scores[activePlayer] >= 20){
+        if(scores[activePlayer] >= 100){
 
             isPlaying = false;
             document.querySelector
